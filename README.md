@@ -1,26 +1,39 @@
-# NLW Valoriza
+# :hearts: Valoriza v1.0
+Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
 
+## :computer: Tecnologias
 
-## Regras
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- Cadastro de usuário
+- [Node.js](https://nodejs.org/en/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [JSONWebToken](https://github.com/auth0/node-jsonwebtoken#readme)
 
-  [ ] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
+### :man_technologist: Código:
 
-  [ ] Não é permitido cadastrar mais de um e-mail
+<p align="center">
+ <img alt="Backend valoriza" src="./assets/images/valoriza.png" width="1291px" heigth="741px">
+</p>
 
-- Cadastro de TAG
+### :information_source: Como usar:
 
-  [ ] Não é permitido cadastrar mais de uma tag com o mesmo nome
+Para clonar e executar esta aplicação, você precisará do Git instalado em seu computador. Na linha de comando:
 
-  [ ] Não é permitido cadastrar tag sem nome
+```bash
+# Clonar este repositório
+$ git clone https://github.com/DiegoTeixeira7/nlwValoriza.git
 
-  [ ] Não é permitido cadastro por usuários que não sejam administradores
+# Vá para o repositório
+$ cd nlwValoriza
 
-- Cadastro de elogios
+# Instale as dependências
+$ sudo apt-get update
+$ yarn install  | npm install
 
-  [ ] Não é permitido um usuário cadastrar um elogio para si
+# Execute o projeto
+$ yarn dev      | npm run dev
+```
 
-  [ ] Não é permitido cadastrar elogios para usuários inválidos
-
-  [ ] O usuário precisa estar autenticado na aplicação
+### :memo: Licença
+Este projeto está sob a licença do MIT. Consulte a [LICENSE](LICENSE) para obter mais informações.
