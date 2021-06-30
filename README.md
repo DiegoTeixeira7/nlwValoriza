@@ -1,4 +1,12 @@
 # :hearts: Valoriza v1.0
+<p align="center">
+  <img alt="Linguagens" src="https://img.shields.io/github/languages/count/DiegoTeixeira7/nlwValoriza">
+  <img alt="Linguagem principal" src="https://img.shields.io/github/languages/top/DiegoTeixeira7/nlwValoriza">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/DiegoTeixeira7/nlwValoriza">
+  <img alt="Última modificação" src="https://img.shields.io/github/last-commit/DiegoTeixeira7/nlwValoriza">
+  <img alt="Licença" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
 
 ## :computer: Tecnologias
